@@ -1,0 +1,34 @@
+﻿@using NewsWebSite.Models
+@model LoginViewModel
+@{
+    Layout = "~/Views/Shared/Lay.cshtml";
+    ViewBag.Title = "Log in";
+}
+<div class="news-create">
+    <header><h3>ОКНО ВХОДА</h3></header>
+    @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        @Html.LabelFor(m => m.Email, new { @class = "label-text" })
+        @Html.TextBoxFor(m => m.Email)
+        @Html.ValidationMessageFor(m => m.Email)
+
+        @Html.LabelFor(m => m.Password, new { @class = "label-text" })
+        @Html.PasswordFor(m => m.Password)
+        @Html.ValidationMessageFor(m => m.Password)
+        @Html.LabelFor(m => m.RememberMe)
+        @Html.CheckBoxFor(m => m.RememberMe)
+        
+        <br />
+
+        <input type="submit" value="Войти" />
+
+                @Html.ActionLink("Зарегистрироваться", "Register")
+                @* Enable this once you have account confirmation enabled for password reset functionality
+                    <p>
+                        @Html.ActionLink("Forgot your password?", "ForgotPassword")
+                    </p>*@
+    }
+</div>

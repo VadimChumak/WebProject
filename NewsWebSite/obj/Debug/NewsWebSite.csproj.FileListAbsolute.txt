@@ -1,0 +1,186 @@
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\ApplicationInsights.config
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\csc.exe
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\vbc.exe
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\NewsWebSite.dll.config
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\NewsWebSite.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\NewsWebSite.pdb
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Antlr3.Runtime.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\EntityFramework.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Iesi.Collections.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.Web.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Newtonsoft.Json.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\NHibernate.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Ninject.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Ninject.Web.Common.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Ninject.Web.Mvc.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Owin.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.Helpers.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.Mvc.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.Optimization.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.Razor.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.WebPages.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\WebActivatorEx.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\WebGrease.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Iesi.Collections.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.Web.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Newtonsoft.Json.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\NHibernate.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Ninject.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Ninject.Web.Common.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Ninject.Web.Mvc.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.Helpers.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.Mvc.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.Optimization.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.Razor.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.WebPages.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Antlr3.Runtime.pdb
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\EntityFramework.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\obj\Debug\NewsWebSite.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\obj\Debug\NewsWebSite.dll
+C:\Users\vadim\Desktop\expert-journey-master\NewsWebSite\obj\Debug\NewsWebSite.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\csc.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\vbc.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\ApplicationInsights.config
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\NewsWebSite.dll.config
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\NewsWebSite.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\NewsWebSite.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Antlr3.Runtime.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\EntityFramework.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Iesi.Collections.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.Web.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Newtonsoft.Json.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\NHibernate.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Ninject.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Ninject.Web.Common.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Ninject.Web.Mvc.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Owin.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.Helpers.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.Mvc.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.Optimization.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.Razor.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.WebPages.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\WebActivatorEx.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\WebGrease.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Iesi.Collections.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.Web.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Newtonsoft.Json.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\NHibernate.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Ninject.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Ninject.Web.Common.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Ninject.Web.Mvc.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.Helpers.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.Mvc.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.Optimization.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.Razor.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.WebPages.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Antlr3.Runtime.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\EntityFramework.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\obj\Debug\NewsWebSite.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\obj\Debug\NewsWebSite.dll
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\expert-journey\NewsWebSite\obj\Debug\NewsWebSite.pdb
